@@ -21,3 +21,8 @@ def teach
 end
 end
 
+chris = Instructor.new("Chris")
+cristina = Student.new("Cristina")
+
+chris.greeting
+cristina.greeting

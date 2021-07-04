@@ -26,3 +26,7 @@ cristina = Student.new("Cristina")
 
 chris.greeting
 cristina.greeting
+
+#they are not inheriting from each other so they have access to each others intance methods
+# chris.learn
+# cristina.teach
